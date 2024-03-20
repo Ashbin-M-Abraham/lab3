@@ -48,6 +48,7 @@ function showTopFlavors(jsonObj) {
         let h2 = document.createElement('h2')
 
         let image = document.createElement( 'img' ) ;
+        let calories = document.createElement('p');
 
 
 

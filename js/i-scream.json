@@ -25,6 +25,16 @@
         "clover honey"
       ],
       "image" : "peach-mango.svg"
-    }
+    },{
+      "name" : "Choco Chip & Cream",
+      "calories" : 47,
+      "type" : "chip",
+      "ingredients" : ["semi-sweet chocolate chips",
+      "heavy cream",
+      "valina flavor",
+      "dark chocolate "
+    ],
+    "image" :"ice-cream-xtra1.svg"
+  }
   ]
 }
