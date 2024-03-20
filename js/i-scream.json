@@ -35,6 +35,15 @@
       "dark chocolate "
     ],
     "image" :"ice-cream-xtra1.svg"
-  }
+  },
+  {
+    "name" : "kulfi",
+    "calories" : 417,
+    "type" : "kilfi",
+    "ingredients" : [
+      "stawbery  juice","coconut milk","cardamom","ghee"
+    ],
+    
+  "image" :"ice-cream-xtra2.svg"}
   ]
 }
